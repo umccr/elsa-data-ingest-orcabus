@@ -1,0 +1,3 @@
+bun run eslint
+bun run prettier
+bun audit

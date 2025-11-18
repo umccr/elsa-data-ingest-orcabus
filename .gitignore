@@ -1,0 +1,5 @@
+.idea/
+.local/
+
+*.log
+gel.local.toml
